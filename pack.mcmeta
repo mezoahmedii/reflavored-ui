@@ -2,8 +2,8 @@
     "pack": {
         "pack_format": 75,
         "min_format": 42,
-        "max_format": 84,
-        "supported_formats": [42, 84],
-        "description": [{"text": "Reflavored UI v1.1", "color": "#f3e5ab"}, {"text":"\nby ", "color": "#ffffff"}, {"text":"MezoAhmedII", "color": "#8205eb"}]
+        "max_format": 88,
+        "supported_formats": [42, 88],
+        "description": [{"text": "Reflavored UI v2.0", "color": "#f3e5ab"}, {"text":"\nby ", "color": "#ffffff"}, {"text":"zMezo", "color": "#8205eb"}]
     }
 }
